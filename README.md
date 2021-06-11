@@ -5,4 +5,4 @@ A console based brick breaker game developed using Assembly Language.
 DOSBOX
 
 # Description
-It is a fully functional brick breaker game.
+It is a fully functional brick breaker game having a bouncing ball, a moving bar, bricks.
