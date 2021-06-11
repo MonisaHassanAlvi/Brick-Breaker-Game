@@ -1,2 +1,8 @@
 # Brick-Breaker-Game
-A console based Brick Breaker game developed using Assembly Language.
+A console based brick breaker game developed using Assembly Language.
+
+# Tools & Applications
+DOSBOX
+
+# Description
+It is a fully functional brick breaker game.
